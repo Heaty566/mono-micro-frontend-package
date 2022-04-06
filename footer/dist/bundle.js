@@ -32,7 +32,7 @@ var __importStar = (this && this.__importStar) || function (mod) {
 Object.defineProperty(exports, "__esModule", ({ value: true }));
 var React = __importStar(__webpack_require__(526));
 var App = function () {
-    return (React.createElement("div", { className: "px-2 py-4 font-medium text-center" },
+    return (React.createElement("div", { className: "px-2 py-4 font-medium text-center text-white" },
         "\u00A9 ",
         new Date().getFullYear(),
         " ", " ",

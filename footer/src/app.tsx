@@ -4,7 +4,7 @@ interface AppProps {}
 
 const App: React.FC<AppProps> = () => {
     return (
-        <div className="px-2 py-4 font-medium text-center text-white">
+        <div className="https://monoinfinity.net">
             © {new Date().getFullYear()} {` `}
             <a href="https://github.com/MonoInfinity" target="_blank">
                 Mono Infinity

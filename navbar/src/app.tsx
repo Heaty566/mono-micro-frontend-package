@@ -10,7 +10,7 @@ const App: React.FC<AppProps> = () => {
                     <Logo />
                 </a>
                 <div className="text-black">
-                    <p className="">
+                    <p className="spinner">
                         This page is using Micro-Fontend by {` `}
                         <a
                             href="https://github.com/MonoInfinity"

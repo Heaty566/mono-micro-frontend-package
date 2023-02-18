@@ -38,7 +38,7 @@ var App = function () {
             React.createElement("a", { href: "https://github.com/MonoInfinity", target: "_blank" },
                 React.createElement(logo_1.Logo, null)),
             React.createElement("div", { className: "text-black" },
-                React.createElement("p", { className: "" },
+                React.createElement("p", { className: "spinner" },
                     "This page is using Micro-Fontend by ", " ",
                     React.createElement("a", { href: "https://github.com/MonoInfinity", target: "_blank", className: "font-semibold text-indigo-800 underline duration-500 decoration-pink-500 hover:decoration-indigo-800 hover:text-pink-500" }, "Mono Infinity Team"))))));
 };
